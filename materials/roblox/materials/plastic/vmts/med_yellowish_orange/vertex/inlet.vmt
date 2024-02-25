@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "roblox/brickcolors/med_yellowish_orange/inlet"
+	$bumpmap "roblox/materials/plastic/bumpmap_inlet"
+}

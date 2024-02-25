@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "roblox/brickcolors/light_orange_brown/inlet"
+	$bumpmap "roblox/materials/plastic/bumpmap_inlet"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	$basetexture "roblox/misc/spawnlocation"
+	$translucent 1
+}

@@ -1,0 +1,15 @@
+{
+    "name": "VmfGen",
+
+    "tree": {
+        "$className": "DataModel",
+
+        "Workspace": {
+            "$className": "Workspace",
+
+            "VmfGen": {
+                "$path": "src"
+            }
+        }
+    }
+}

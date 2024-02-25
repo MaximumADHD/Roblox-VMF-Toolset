@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "skybox/WallsOfAutumnFT"
+	$hdrcompressedtexture "skybox/WallsOfAutumnFT"
+	$nofog 1
+	$ignorez 1
+}

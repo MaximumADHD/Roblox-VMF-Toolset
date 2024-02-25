@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	$basetexture "skybox/brokenskyup"
+	$hdrcompressedtexture "skybox/brokenskyup"
+	$nofog 1
+	$ignorez 1
+}

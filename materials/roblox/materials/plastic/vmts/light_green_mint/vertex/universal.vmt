@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "roblox/brickcolors/light_green_mint/universal"
+	$bumpmap "roblox/materials/plastic/bumpmap_universal"
+}

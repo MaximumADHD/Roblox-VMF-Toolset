@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	$basetexture "roblox/brickcolors/medium_stone_grey/smooth"
+	$envmap env_cubemap
+	$surfaceprop combine_metal
+}

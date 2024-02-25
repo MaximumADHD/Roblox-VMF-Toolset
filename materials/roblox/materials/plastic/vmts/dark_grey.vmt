@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "roblox/brickcolors/dark_grey"
+	$bumpmap "roblox/materials/plastic/bumpmap"
+}

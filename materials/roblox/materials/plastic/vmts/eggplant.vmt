@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "roblox/brickcolors/eggplant"
+	$bumpmap "roblox/materials/plastic/bumpmap"
+}

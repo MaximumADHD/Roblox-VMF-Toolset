@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "roblox/brickcolors/burnt_sienna/weld"
+	$bumpmap "roblox/materials/plastic/bumpmap_weld"
+}

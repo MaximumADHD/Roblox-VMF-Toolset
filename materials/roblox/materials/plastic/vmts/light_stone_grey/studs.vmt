@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture "roblox/brickcolors/light_stone_grey/studs"
+	$bumpmap "roblox/materials/plastic/bumpmap_studs"
+}
