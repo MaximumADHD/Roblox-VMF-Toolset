@@ -79,7 +79,7 @@ for i, part in workspace:GetDescendants() do
         local lookAt = cf * offset
 
         local surface = cf * (offset / 2)
-		local planeCF = CFrame.lookAt(surface, lookAt)
+        local planeCF = CFrame.lookAt(surface, lookAt)
         
         local uaxis = TexVec.new(planeCF.RightVector, uvScale)
         local vaxis = TexVec.new(planeCF.UpVector, uvScale)
